@@ -1,1 +1,1 @@
-# x-snmbcwi
+# Box Class
